@@ -8,5 +8,5 @@ export const registerUser = async ({ name, email, password }: User) => {
     throw new Error("Missing required fields");
   }
 
-  const existing = 
+  
 };
